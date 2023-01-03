@@ -34,3 +34,10 @@ This project was developed with the following technology:
 ## 💻 Project
 
 This project was made to train the main fundamentals of ReactJS and API.
+Live preview: https://my-first-ecommerce-baby.netlify.app/
+
+## :memo: Licença
+
+This project is under the MIT license
+
+Made with 💜 by myself : [My contact!] [mariathatha03@gmail.com]
